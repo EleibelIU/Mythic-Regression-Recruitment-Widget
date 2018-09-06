@@ -1,0 +1,174 @@
+.recruitment_table {
+    width: 100%;
+}
+
+.recruitment_table img {
+    /* width: 32px; */
+    max-width: 100%;
+    /* height: auto; */
+    box-sizing: border-box;
+    vertical-align: middle;
+    display: inline;
+    border:none;
+    outline:none;
+}
+
+.recruitment_table td:nth-child(2) {
+    text-align: right
+}
+.recruitment_table .Warrior {
+    color: #c79c6e;
+}
+
+.recruitment_table .Warrior img {
+    border: 1px solid #c79c6e
+}
+
+.recruitment_table .Paladin {
+    color: #f58cba;
+}
+
+.recruitment_table .Paladin img {
+    border: 1px solid #f58cba
+}
+
+.recruitment_table .Hunter {
+    color: #abd473;
+}
+
+.recruitment_table .Hunter img {
+    border: 1px solid #abd473
+}
+
+.recruitment_table .Rogue {
+    color: #fff569;
+}
+
+.recruitment_table .Rogue img {
+    border: 1px solid #fff569
+}
+
+.recruitment_table .Priest {
+    color: #fff;
+}
+
+.recruitment_table .Priest img {
+    border: 1px solid #fff
+}
+
+.recruitment_table {
+    color: #c41f3b;
+}
+
+.recruitment_table .Deathknight img {
+    border: 1px solid #c41f3b
+}
+
+.recruitment_table .Shaman {
+    color: #0070de;
+}
+
+.recruitment_table .Shaman img {
+    border: 1px solid #0070de
+}
+
+.recruitment_table .Mage {
+    color: #69ccf0;
+}
+
+.recruitment_table .Mage img {
+    border: 1px solid #69ccf0
+}
+
+.recruitment_table .Warlock {
+    color: #9482c9;
+}
+
+.recruitment_table .Warlock img {
+    border: 1px solid #9482c9
+}
+
+.recruitment_table .Monk {
+    color: #00ff96;
+}
+
+.recruitment_table .Monk img {
+    border: 1px solid #00ff96
+}
+
+.recruitment_table .Druid {
+    color: #ff7d0a;
+}
+
+.recruitment_table .Druid img {
+    border: 1px solid #ff7d0a
+}
+
+.recruitment_table .DemonHunter {
+    color: #A330C9;
+}
+
+.recruitment_table .DemonHunter img {
+    border: 1px solid #A330C9
+}
+
+.recruitment_table .open {
+    opacity: 1
+}
+
+.recruitment_table .close {
+    opacity: .3
+}
+/***Above are the recruitment widget's border removal CSS
+***/
+/***APPLICATION FORM CSS***/
+/*** THIS CHANGES THE LOOK OF THE FORM FIELDS ***/
+.caldera-grid .form-control {
+    padding: 16px;
+    height: auto;
+    box-shadow: none;
+    background: #424242;
+    color: #E0E0E0;
+    border: none;
+   }
+    
+   /*** THIS CHANGES THE BUTTON STYLE ***/
+   .caldera-grid input[type=submit] {
+    padding: 10px 20px;
+    border-radius: 2px;
+    background: solid #424242;
+    color: #E0E0E0;
+    font-size: 20px;
+    border: 2px solid #2ea3f2;
+    float: right;
+    transition: all 0.3s ease-in-out;
+   }
+    
+   /*** THIS CHANGES THE BUTTON HOVER STYLE ***/
+   .caldera-grid input[type=submit]:hover {
+    background: #424242;
+    border-color: #424242;
+    color: #2ea3f2;
+   }
+   #fld_8768091Label {
+       color: #e53935;
+       font-size: 15px;
+       font: Roboto;
+   }
+   .control-label {
+       color: #e53935;
+       font-size: 15px;
+       font: Roboto;
+   }
+.recruitment_table td{
+    text-align: center;
+    border:none;
+}
+.recruitment_table th{
+    border:none;
+   }
+.recruitment_table {
+    width: 100%;
+    border:none;
+    outline:none;
+}
